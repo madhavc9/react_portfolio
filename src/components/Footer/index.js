@@ -86,7 +86,7 @@ function Footer() {
     return (
         <FooterContainer>
             <FooterWrapper>
-                <Logo>Pranav Kapsiway</Logo>
+                <Logo>Madhav</Logo>
                 <Nav>
                     <NavLink href="#about">About</NavLink>
                     <NavLink href="#skills">Skills</NavLink>
@@ -99,7 +99,7 @@ function Footer() {
                     <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
                 </SocialMediaIcons>
                 <Copyright>
-                    &copy; 2023 Pranav Kapisway. All rights reserved.
+                    &copy; 2023 Madhav. All rights reserved.
                 </Copyright>
 
             </FooterWrapper>
